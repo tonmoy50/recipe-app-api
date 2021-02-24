@@ -1,2 +1,2 @@
 # recipe-app-api
-recipe app source code
+This is a rest framework for recipe app
